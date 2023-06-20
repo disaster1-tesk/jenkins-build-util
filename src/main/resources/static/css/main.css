@@ -1,0 +1,13 @@
+.loading-icon {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 40%;
+}
+
+.icon-zhengque {
+    color: green;
+}
+
+.icon-guanbi1{
+    color: red;
+}
